@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
+- **Programming Languages:** [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#), [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#), [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), ![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#),[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 - **Frameworks & Tools:** React, React Native, Next.js, MySQL
 - **Blockchain:** Solidity, Ethereum, MetaMask, ThirdWeb SDK
 - **Languages:** Fluent in Hindi & English
