@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Pushkar Singh
 
-<!--
-**Pushkar1604/Pushkar1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about Full Stack Development and AI.
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- Frontend: React, Next.js, HTML, CSS, JavaScript, TypeScript
+- Backend: Node.js, Express, Firebase
+- Others: Git, Docker, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on: An AI-powered trading app.
+
+📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkar-singh&show_icons=true&theme=radical)
