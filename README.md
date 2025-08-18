@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#5e17eb">Pushkar Singh</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E3DF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer+%F0%9F%9A%80+Hackathon+Champion" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E3DF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer+%F0%9F%9A%80;Blockchain+Developer+%F0%9F%92%BB;Hackathon+Champion+%F0%9F%8F%86" alt="Typing Animation" />
 </p>
 
 ---
