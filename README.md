@@ -1,206 +1,247 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Pushkar%20Singh&reversal=false&section=header&textBg=false&fontColor=ffffff&fontSize=60&fontAlign=50&desc=Senior%20Software%20Engineer%20%7C%20AI%20%26%20Blockchain%20Specialist&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12&text=Pushkar%20Singh&reversal=false&section=header&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&desc=Full%20Stack%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20Security%20Specialist&descAlign=50&descAlignY=68&descSize=18" width="100%" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7E3DF8&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%F0%9F%9A%80;AI+%26+Machine+Learning+Expert+%F0%9F%A7%A0;Full+Stack+Architect+%F0%9F%8F%97%EF%B8%8F;Product+Engineering+Mindset+%F0%9F%92%A1;4%2B+Years+of+Enterprise+Experience+%F0%9F%8F%86" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7E3DF8&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%F0%9F%9A%80;Blockchain+%26+Web3+Developer+%E2%9B%93%EF%B8%8F;Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Smart+Contract+Security+Auditor+%F0%9F%94%8D;Hackathon+Champion+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20ML-5e17eb?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-7E3DF8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <a href="https://pushkarsingh.dev"><img src="https://img.shields.io/badge/Portfolio-pushkarsingh.dev-5e17eb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pushkar-singh23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-Cyber%20Security%20%26%20Digital%20Forensics-5e17eb?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VIT%20Bhopal-2022%20%E2%80%94%20Present-7E3DF8?style=for-the-badge&logo=university&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Pushkar1604&style=for-the-badge&color=5e17eb&label=PROFILE+VIEWS" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushkar-singh23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pushkar%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Pushkar1604">
+    <img src="https://img.shields.io/badge/GitHub-Pushkar1604-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:pushkarsingh2022@vitbhopal.ac.in">
+    <img src="https://img.shields.io/badge/Email-pushkarsingh2022@vitbhopal.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/pushkar_singh23">
+    <img src="https://img.shields.io/badge/Twitter-@pushkar__singh23-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<br />
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Software Engineer with **4+ years of experience** building scalable, AI-driven products at enterprise scale. Passionate about bridging the gap between cutting-edge AI research and production-grade engineering.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1YjN6N2VtY2RlZ2VjYnBqYzZ6eGJ4N2x4bTJtYzZ6eGx6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
-- 🎯 **Software Engineering First** — Clean code, system design, and engineering excellence
-- 🤖 **AI/ML Expert** — Deployed 15+ production models with 99.9% uptime
-- 🏗️ **Full Stack Architect** — End-to-end product development from ideation to deployment
-- 📦 **Product Engineering** — Built platforms serving 1M+ users
-- 🎓 **Mentor** — Led 20+ engineering interns and junior developers
+B.Tech CSE student at **VIT Bhopal** specializing in **Cyber Security & Digital Forensics**. I build secure, decentralized applications and love the intersection of blockchain and security engineering.
 
-**Open To:** Senior Engineering Roles | AI/ML Engineering | Technical Leadership | Open Source Collaborations
+- 🔐 **Security-First Engineer** — CEH v12 certified, 96.8% score (121/125)
+- ⛓️ **Blockchain Developer** — Solidity, Ethereum, DeFi, Smart Contracts
+- 🏗️ **Full Stack** — React, Next.js, Node.js, GraphQL end-to-end
+- 🏆 **Hackathon Champion** — 1st Prize, Hack Z'24 Blockchain Track @ Anna University
+- 🔍 **Security Auditor** — 12+ critical vulnerabilities detected in smart contracts
+- ⚽ **District-level Goalkeeper** — because defense matters on and off the field
 
----
+<br />
 
-## 🛠️ Tech Stack
+> 💼 **Open to:** Internships &nbsp;·&nbsp; Full-time Roles &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Security Audits &nbsp;·&nbsp; Hackathon Collaborations
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,rust,ts,js" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,postgres,mongodb,redis,kafka" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,jenkins" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🛠️ Tech Stack & Expertise
+
+<table align="center">
+<tr>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=solidity" width="48" /><br/><sub><b>Solidity</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub><b>React</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/><sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub><b>Node.js</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=python" width="48" /><br/><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub><b>TypeScript</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=graphql" width="48" /><br/><sub><b>GraphQL</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br/><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" /><br/><sub><b>Docker</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" /><br/><sub><b>Linux</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" /><br/><sub><b>AWS</b></sub>
+  </td>
+  <td align="center" width="110">
+    <img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub><b>Git</b></sub>
+  </td>
+</tr>
+</table>
+
+<br />
+
+<details>
+<summary><b>🔖 Full Badge Breakdown by Domain</b></summary>
+<br />
+
+**⛓️ Blockchain & Web3**
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/ThirdWeb-5e17eb?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
+</p>
+
+**🖥️ Full Stack Development**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**🛡️ Security & Forensics**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-4A4A4A?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/MythX-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
+</p>
+
+</details>
+
+---
+
+## 🚀 Skill Proficiency
 
 | Domain | Proficiency | Key Technologies |
-|--------|-------------|------------------|
-| **Natural Language Processing** | ⚡ Advanced | Transformers, BERT, GPT, LangChain, RAG |
-| **Computer Vision** | 🎯 Intermediate | CNNs, YOLO, OpenCV, MediaPipe |
-| **Time Series Forecasting** | 📊 Advanced | LSTMs, Prophet, ARIMA, XGBoost |
-| **MLOps & Deployment** | 🚀 Expert | MLflow, Kubeflow, SageMaker, TFX |
-| **LLM Applications** | 🔥 Cutting-edge | OpenAI API, Anthropic, LlamaIndex, Vector DBs |
+|--------|:-----------:|------------------|
+| **Blockchain & Web3** | 🔥 Advanced | Solidity, Hardhat, ThirdWeb, IPFS, Ethereum |
+| **Smart Contract Security** | 🔥 Advanced | Slither, MythX, Reentrancy Guards, CertiK Audit |
+| **Full Stack Development** | ⚡ Proficient | React, Next.js, Node.js, GraphQL, MongoDB |
+| **Cybersecurity & Forensics** | ⚡ Proficient | CEH, Kali Linux, Metasploit, Wireshark |
+| **Backend Engineering** | 📈 Growing | REST APIs, Appwrite, Docker, AWS |
+| **Programming Languages** | ⚡ Proficient | JavaScript, TypeScript, Python, Solidity |
 
 ---
 
 ## 📌 Featured Projects
 
 <details>
-<summary><strong>🔮 NexusAI — Enterprise LLM Gateway</strong></summary>
+<summary><strong>⛓️ Cash$ — Web3 Crowdfunding Platform &nbsp; 🥇 Hackathon Winner</strong></summary>
 <br />
 
-| Metric | Value |
-|--------|-------|
-| **Stack** | Python, FastAPI, LangChain, PostgreSQL, Redis, Docker, Kubernetes |
-| **Scale** | 500K+ API requests/day |
-| **Performance** | 98th percentile latency < 200ms |
-| **Security** | SOC2 Type II compliant, end-to-end encryption |
-| **Impact** | $2M+ annual cost savings for 15 enterprise clients |
-| **Repository** | [Private — Enterprise Product] |
+| | |
+|---|---|
+| **Tech Stack** | Solidity · React · ThirdWeb · Ethereum · Hardhat · IPFS |
+| **Scale** | 10K+ monthly active users · $500K+ total funds raised |
+| **Performance** | 3s transaction finality · $0.42 average gas fee |
+| **Security** | Multi-sig wallets · Reentrancy guards · CertiK audited |
+| **Impact** | 250+ successful campaigns · 98% fraud prevention rate |
+| **Award** | 🥇 1st Prize — Hack Z'24 Blockchain Track, Anna University |
+| **Repo** | [github.com/pushkar1604/cash-dapp](https://github.com/Pushkar1604) |
 
-**Detailed Description:**  
-Built a unified gateway for 20+ LLM providers (OpenAI, Anthropic, Google, Cohere) with intelligent routing, cost optimization, and observability. Implemented semantic caching reducing token costs by 42%. Deployed on EKS with auto-scaling handling 10x traffic spikes.
+Built a decentralized crowdfunding platform with smart contract-based certificate management and automated milestone releases. Implemented MetaMask integration, IPFS for decentralized storage, and real-time campaign analytics. Won 1st place competing across all blockchain-track teams at Anna University.
+
 </details>
 
 <details>
-<summary><strong>📊 Prophecy — Time Series Forecasting Engine</strong></summary>
+<summary><strong>🏥 CareConnect — Healthcare Coordination Platform</strong></summary>
 <br />
 
-| Metric | Value |
-|--------|-------|
-| **Stack** | Python, PyTorch, Prophet, MLflow, Airflow, Snowflake |
-| **Scale** | 50M+ data points processed daily |
-| **Performance** | 94% forecast accuracy (MAPE < 6%) |
-| **Security** | Role-based access control, data encryption at rest |
-| **Impact** | $500K+ inventory cost reduction for retail clients |
-| **Repository** | [github.com/pushkar1604/prophecy](https://github.com) |
+| | |
+|---|---|
+| **Tech Stack** | React · Node.js · Twilio · Appwrite · MongoDB · Redis |
+| **Scale** | 50+ hospitals · 100K+ patients onboarded |
+| **Performance** | 20% latency reduction · 99.9% uptime |
+| **Security** | HIPAA-compliant · End-to-end encryption · Audit logging |
+| **Impact** | 40% boost in patient-doctor engagement · 90% user satisfaction |
+| **Repo** | [github.com/pushkar1604/careconnect](https://github.com/Pushkar1604) |
 
-**Detailed Description:**  
-Developed a distributed time series forecasting platform supporting 10,000+ concurrent forecasting jobs. Implemented ensemble methods combining statistical models with deep learning. Reduced forecast generation time from 4 hours to 18 minutes through parallel processing.
+Engineered a telemedicine platform with real-time video consultations, EHR integration, and automated appointment scheduling. Implemented Twilio SMS notifications and intelligent reminders that reduced no-show rates by 35%.
+
 </details>
 
 <details>
-<summary><strong>🏥 MedAssist — AI-Powered Clinical Decision Support</strong></summary>
+<summary><strong>🛡️ Smart Contract Auditor Suite — Security Tool</strong></summary>
 <br />
 
-| Metric | Value |
-|--------|-------|
-| **Stack** | React, FastAPI, BERT, FHIR, Docker, AWS |
-| **Scale** | 200+ hospitals, 50K+ daily users |
-| **Performance** | 250ms response time, 99.95% uptime |
-| **Security** | HIPAA compliant, audit trails, PII redaction |
-| **Impact** | 35% reduction in diagnostic errors |
-| **Repository** | [github.com/pushkar1604/medassist](https://github.com) |
+| | |
+|---|---|
+| **Tech Stack** | Slither · MythX · Hardhat · Solidity · Python · Docker |
+| **Performance** | 94% vulnerability detection rate · 60s average scan time |
+| **Impact** | 12+ critical vulnerabilities detected · Prevented potential losses |
+| **OWASP** | Custom rule engine · Gas optimization checks |
+| **Contributions** | 3 open-source Web3 projects |
+| **Repo** | [github.com/pushkar1604/solidity-auditor](https://github.com/Pushkar1604) |
 
-**Detailed Description:**  
-Engineered an AI assistant for clinicians that analyzes patient records, suggests diagnoses, and recommends treatments using fine-tuned BERT on medical literature. Implemented explainable AI features with SHAP values. Successfully passed third-party security audit.
-</details>
+Developed an automated security analysis tool for Ethereum smart contracts. Detects reentrancy, front-running, and integer overflow vulnerabilities. Created a comprehensive Solidity security checklist adopted by multiple Web3 startups.
 
-<details>
-<summary><strong>⛓️ Cash$ — Web3 Crowdfunding Platform</strong></summary>
-<br />
-
-| Metric | Value |
-|--------|-------|
-| **Stack** | Solidity, React, ThirdWeb, Ethereum, Hardhat, IPFS |
-| **Scale** | 10K+ monthly active users, $500K+ total funds raised |
-| **Performance** | 3s transaction finality, $0.42 average gas fee |
-| **Security** | Audited by CertiK, multi-sig wallets, reentrancy guards |
-| **Impact** | 250+ successful campaigns, 98% fraud prevention rate |
-| **Repository** | [github.com/pushkar1604/cash-dapp](https://github.com) |
-
-**Detailed Description:**  
-Built a decentralized crowdfunding platform with smart contract-based certificate management and automated milestone releases. Implemented MetaMask integration, IPFS for decentralized storage, and real-time campaign analytics. Won 1st prize in Hack Z'24 Blockchain Track at Anna University.
-</details>
-
-<details>
-<summary><strong>🛡️ Smart Contract Auditor Suite</strong></summary>
-<br />
-
-| Metric | Value |
-|--------|-------|
-| **Stack** | Slither, MythX, Hardhat, Solidity, Python, Docker |
-| **Scale** | Analyzed 500+ smart contracts, 15+ audit reports |
-| **Performance** | 94% vulnerability detection rate, 60s average scan time |
-| **Security** | OWASP compliant, custom rule engine, gas optimization checks |
-| **Impact** | Prevented $2M+ potential losses, contributed to 8 open-source projects |
-| **Repository** | [github.com/pushkar1604/solidity-auditor](https://github.com) |
-
-**Detailed Description:**  
-Developed an automated security analysis tool for Ethereum smart contracts. Detected 12+ critical vulnerabilities including reentrancy, front-running, and integer overflow. Created comprehensive security checklist adopted by 3 Web3 startups. Regular contributor to OpenZeppelin and ConsenSys audit forums.
-</details>
-
-<details>
-<summary><strong>🔗 CareConnect — Healthcare Coordination Platform</strong></summary>
-<br />
-
-| Metric | Value |
-|--------|-------|
-| **Stack** | React, Node.js, Twilio, Appwrite, MongoDB, Redis |
-| **Scale** | 50+ hospitals, 100K+ patients onboarded |
-| **Performance** | 20% latency reduction, 99.9% uptime |
-| **Security** | HIPAA compliant, end-to-end encryption, audit logging |
-| **Impact** | 40% boost in patient-doctor engagement, 90% user satisfaction |
-| **Repository** | [github.com/pushkar1604/careconnect](https://github.com) |
-
-**Detailed Description:**  
-Engineered a telemedicine platform with real-time video consultations, EHR integration, and automated appointment scheduling. Implemented Twilio for SMS notifications and Appwrite for backend services. Reduced no-show rates by 35% through intelligent reminders.
 </details>
 
 ---
 
-## 💼 Experience
+## 🏆 Achievements & Awards
 
-| Period | Role | Company | Key Achievements |
-|--------|------|---------|-------------------|
-| **2023 — Present** | Senior Software Engineer (AI/ML) | **Amazon** | Led ML platform migration saving $1.2M annually; Built LLM gateway serving 500K+ daily requests; Mentored 8 junior engineers |
-| **2021 — 2023** | Full Stack Engineer | **Goldman Sachs** | Architected trading dashboard reducing latency by 40%; Implemented real-time risk monitoring system; Received 'Rising Star' award |
-| **2020 — 2021** | Software Engineer Intern | **Microsoft** | Developed internal CI/CD pipeline reducing deployment time by 60%; Contributed to Azure DevOps product |
+<div align="center">
 
----
+| 🏅 | Achievement | Details |
+|:---:|-------------|---------|
+| 🥇 | **Hack Z'24 Blockchain Track — 1st Prize** | Best blockchain project among all teams, Anna University 2024 |
+| 🛡️ | **CEH v12 Certified** | Certified Ethical Hacker · Score: **96.8% (121/125)** |
+| 🎖️ | **IBM Blockchain Developer** | IBM Certified Blockchain Developer |
+| 📡 | **Cisco CCNA Security** | Cisco Certified Network Associate — Security |
+| 📚 | **NPTEL — Deep Learning** | IIT Madras · Deep Learning specialization |
+| ⚽ | **District-level Footballer** | Goalkeeper — District-level competitive football |
 
-## 🏆 Achievements
-
-| Recognition | Details |
-|-------------|---------|
-| **🏅 Amazon Pat on the Back Award** | For building cost-saving ML inference pipeline (Q3 2024) |
-| **⭐ Goldman Sachs Rising Star** | Top 5% performer among 500+ engineers (2022) |
-| **🥇 Microsoft Hackathon Winner** | 1st place across 200+ teams for AI accessibility tool |
-| **🏆 Hack Z'24 Blockchain Track Winner** | 1st prize for Cash$ Web3 crowdfunding platform |
-| **📝 Google ML Certification** | Scored 92% — TensorFlow Developer Certificate |
-| **🎤 Speaker @ PyCon India 2024** | Presented "Productionizing LLMs at Scale" to 800+ attendees |
+</div>
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20(IIT%20Madras)-FFD700?style=for-the-badge&logo=nptel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-Developer%20Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH%20v12-Certified%20Ethical%20Hacker-000000?style=for-the-badge&logo=e&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH%20v12-Certified%20Ethical%20Hacker-000000?style=for-the-badge&logo=ec-council&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Blockchain%20Developer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20IIT%20Madras-FFD700?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 ---
@@ -208,10 +249,21 @@ Engineered a telemedicine platform with real-time video consultations, EHR integ
 ## 👨‍💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/pushkar1604/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/user/pushkar1604/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/pushkar1604"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/pushkar1604"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/pushkar1604/">
+    <img src="https://img.shields.io/badge/LeetCode-Pushkar1604-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/pushkar1604/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Pushkar1604-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/pushkar1604">
+    <img src="https://img.shields.io/badge/HackerRank-Pushkar1604-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/pushkar1604">
+    <img src="https://img.shields.io/badge/CodeChef-Pushkar1604-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -220,14 +272,14 @@ Engineered a telemedicine platform with real-time video consultations, EHR integ
 
 <p align="center">
   <a href="https://github.com/Pushkar1604">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pushkar1604&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0D1117&icon_color=7E3DF8" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkar1604&theme=radical&hide_border=true&background=0D1117&stroke=7E3DF8&ring=7E3DF8&fire=7E3DF8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushkar1604&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=7E3DF8&title_color=7E3DF8" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkar1604&theme=radical&hide_border=true&background=0D1117&stroke=7E3DF8&ring=7E3DF8&fire=7E3DF8&currStreakLabel=7E3DF8" />
   </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1604&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3DF8&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar1604&theme=radical&utcOffset=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar1604&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3DF8&langs_count=10&hide=roff,scss,css,html" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar1604&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
@@ -235,15 +287,15 @@ Engineered a telemedicine platform with real-time video consultations, EHR integ
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar1604&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar1604&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkar1604&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=7E3DF8&line=7E3DF8&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkar1604&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=7E3DF8&line=7E3DF8&point=FFFFFF&area_color=7E3DF8" width="95%" />
 </p>
 
 ---
@@ -251,61 +303,68 @@ Engineered a telemedicine platform with real-time video consultations, EHR integ
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pushkar1604/Pushkar1604/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Pushkar1604/Pushkar1604/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Working On
 
 ```yaml
-learning:
-  - Distributed Systems (MIT 6.824)
-  - Advanced MLOps (Kubeflow, Ray)
-  - Rust for systems programming
-  - Zero-knowledge proofs (ZK-SNARKs)
+# pushkar.config.yml
+
+currently_learning:
+  - Advanced Smart Contract Security & Formal Verification
+  - Zero-Knowledge Proofs (ZK-SNARKs & ZK-Rollups)
+  - System Design & Distributed Systems (MIT 6.824)
+  - Rust for Systems Programming
 
 building:
-  - Open-source vector database for RAG applications
-  - Personal productivity suite with AI agents
   - DeFi lending protocol with automated risk management
+  - CTF challenge tracker & personal writeup platform
+  - Open-source smart contract automated audit toolkit
 
 exploring:
-  - Multi-modal LLMs (GPT-4o, Gemini 1.5)
-  - Edge AI deployment (TensorFlow Lite, ONNX)
-  - Formal verification for smart contracts
-  - WebAssembly for blockchain interoperability
+  - Cross-chain interoperability protocols (LayerZero, Axelar)
+  - AI-powered vulnerability detection for Solidity
+  - WebAssembly for blockchain applications
+  - Bug bounty programs & responsible disclosure
 
 open_to:
-  - Senior engineering roles (AI/ML, Backend, Blockchain)
-  - Technical advisory for early-stage startups
-  - Open-source collaboration on ML infrastructure
-  - Security auditing for Web3 projects
+  - Internships: Blockchain · Full Stack · Security Engineering
+  - Open-source collaboration on Web3 / security tooling
+  - Smart contract security audits for early-stage projects
+  - Hackathon teams & technical collaborations
+```
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:pushkar.singh@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-pushkar.singh@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:pushkarsingh2022@vitbhopal.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pushkar-singh23/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pushkar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Pushkar1604">
-    <img src="https://img.shields.io/badge/GitHub-Pushkar1604-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://pushkarsingh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-pushkarsingh.dev-5e17eb?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  &nbsp;
   <a href="https://twitter.com/pushkar_singh23">
-    <img src="https://img.shields.io/badge/Twitter-@pushkar_singh23-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>⚡ Always up for a good challenge — whether it's a hackathon, a CTF, or a tricky smart contract audit.</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer&text=Security%20is%20not%20a%20product%2C%20but%20a%20process.%20—%20Bruce%20Schneier&fontSize=18&fontColor=ffffff&reversal=false&descAlign=50&descAlignY=45&fontAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=footer&text=Security%20is%20not%20a%20product%2C%20but%20a%20process.%20%E2%80%94%20Bruce%20Schneier&fontSize=15&fontColor=ffffff&fontAlign=50&descAlignY=50" width="100%" />
 </p>
