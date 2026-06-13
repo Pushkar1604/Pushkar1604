@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-Cyber%20Security%20%26%20Digital%20Forensics-5e17eb?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-Cyber%20Security%20%26%20Digital%20Forensics-5e17eb?style=for-the-badge&logo=googlecloud&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/VIT%20Bhopal-2022%20%E2%80%94%20Present-7E3DF8?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIT%20Bhopal-2022%20%E2%80%94%20Present-7E3DF8?style=for-the-badge&logo=google-maps&logoColor=white" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Pushkar1604&style=for-the-badge&color=5e17eb&label=PROFILE+VIEWS" />
 </p>
@@ -24,11 +24,11 @@
   </a>
   &nbsp;
   <a href="mailto:pushkarsingh2022@vitbhopal.ac.in">
-    <img src="https://img.shields.io/badge/Email-pushkarsingh2022@vitbhopal.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pushkarsingh2022%40vitbhopal.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://twitter.com/pushkar_singh23">
-    <img src="https://img.shields.io/badge/Twitter-@pushkar__singh23-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%40pushkar__singh23-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -53,11 +53,11 @@ B.Tech CSE student at **VIT Bhopal** specializing in **Cyber Security & Digital 
 
 > 💼 **Open to:** Internships &nbsp;·&nbsp; Full-time Roles &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Security Audits &nbsp;·&nbsp; Hackathon Collaborations
 
-<br clear="right"/>
+<br clear="right" />
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -151,12 +151,12 @@ B.Tech CSE student at **VIT Bhopal** specializing in **Cyber Security & Digital 
 
 ## 🚀 Skill Proficiency
 
-| Domain | Proficiency | Key Technologies |
-|--------|:-----------:|------------------|
+| Domain | Level | Key Technologies |
+|--------|:-----:|------------------|
 | **Blockchain & Web3** | 🔥 Advanced | Solidity, Hardhat, ThirdWeb, IPFS, Ethereum |
-| **Smart Contract Security** | 🔥 Advanced | Slither, MythX, Reentrancy Guards, CertiK Audit |
+| **Smart Contract Security** | 🔥 Advanced | Slither, MythX, Reentrancy Guards, Audit Tools |
 | **Full Stack Development** | ⚡ Proficient | React, Next.js, Node.js, GraphQL, MongoDB |
-| **Cybersecurity & Forensics** | ⚡ Proficient | CEH, Kali Linux, Metasploit, Wireshark |
+| **Cybersecurity & Forensics** | ⚡ Proficient | CEH v12, Kali Linux, Metasploit, Wireshark |
 | **Backend Engineering** | 📈 Growing | REST APIs, Appwrite, Docker, AWS |
 | **Programming Languages** | ⚡ Proficient | JavaScript, TypeScript, Python, Solidity |
 
@@ -165,7 +165,7 @@ B.Tech CSE student at **VIT Bhopal** specializing in **Cyber Security & Digital 
 ## 📌 Featured Projects
 
 <details>
-<summary><strong>⛓️ Cash$ — Web3 Crowdfunding Platform &nbsp; 🥇 Hackathon Winner</strong></summary>
+<summary><strong>⛓️ Cash$ — Web3 Crowdfunding Platform &nbsp;🥇 Hackathon Winner</strong></summary>
 <br />
 
 | | |
@@ -178,7 +178,7 @@ B.Tech CSE student at **VIT Bhopal** specializing in **Cyber Security & Digital 
 | **Award** | 🥇 1st Prize — Hack Z'24 Blockchain Track, Anna University |
 | **Repo** | [github.com/pushkar1604/cash-dapp](https://github.com/Pushkar1604) |
 
-Built a decentralized crowdfunding platform with smart contract-based certificate management and automated milestone releases. Implemented MetaMask integration, IPFS for decentralized storage, and real-time campaign analytics. Won 1st place competing across all blockchain-track teams at Anna University.
+Built a decentralized crowdfunding platform with smart contract-based certificate management and automated milestone releases. Implemented MetaMask integration, IPFS for decentralized storage, and real-time campaign analytics.
 
 </details>
 
@@ -195,24 +195,23 @@ Built a decentralized crowdfunding platform with smart contract-based certificat
 | **Impact** | 40% boost in patient-doctor engagement · 90% user satisfaction |
 | **Repo** | [github.com/pushkar1604/careconnect](https://github.com/Pushkar1604) |
 
-Engineered a telemedicine platform with real-time video consultations, EHR integration, and automated appointment scheduling. Implemented Twilio SMS notifications and intelligent reminders that reduced no-show rates by 35%.
+Engineered a telemedicine platform with real-time video consultations, EHR integration, and automated appointment scheduling. Intelligent reminders reduced no-show rates by 35%.
 
 </details>
 
 <details>
-<summary><strong>🛡️ Smart Contract Auditor Suite — Security Tool</strong></summary>
+<summary><strong>🛡️ Smart Contract Auditor Suite</strong></summary>
 <br />
 
 | | |
 |---|---|
 | **Tech Stack** | Slither · MythX · Hardhat · Solidity · Python · Docker |
 | **Performance** | 94% vulnerability detection rate · 60s average scan time |
-| **Impact** | 12+ critical vulnerabilities detected · Prevented potential losses |
-| **OWASP** | Custom rule engine · Gas optimization checks |
+| **Impact** | 12+ critical vulnerabilities detected in test contracts |
 | **Contributions** | 3 open-source Web3 projects |
 | **Repo** | [github.com/pushkar1604/solidity-auditor](https://github.com/Pushkar1604) |
 
-Developed an automated security analysis tool for Ethereum smart contracts. Detects reentrancy, front-running, and integer overflow vulnerabilities. Created a comprehensive Solidity security checklist adopted by multiple Web3 startups.
+Automated security analysis tool for Ethereum smart contracts. Detects reentrancy, front-running, and integer overflow vulnerabilities. Security checklist adopted by multiple Web3 startups.
 
 </details>
 
@@ -224,11 +223,11 @@ Developed an automated security analysis tool for Ethereum smart contracts. Dete
 
 | 🏅 | Achievement | Details |
 |:---:|-------------|---------|
-| 🥇 | **Hack Z'24 Blockchain Track — 1st Prize** | Best blockchain project among all teams, Anna University 2024 |
+| 🥇 | **Hack Z'24 Blockchain Track — 1st Prize** | Best blockchain project, Anna University 2024 |
 | 🛡️ | **CEH v12 Certified** | Certified Ethical Hacker · Score: **96.8% (121/125)** |
 | 🎖️ | **IBM Blockchain Developer** | IBM Certified Blockchain Developer |
 | 📡 | **Cisco CCNA Security** | Cisco Certified Network Associate — Security |
-| 📚 | **NPTEL — Deep Learning** | IIT Madras · Deep Learning specialization |
+| 📚 | **NPTEL — Deep Learning** | IIT Madras Deep Learning specialization |
 | ⚽ | **District-level Footballer** | Goalkeeper — District-level competitive football |
 
 </div>
@@ -282,49 +281,16 @@ Developed an automated security analysis tool for Ethereum smart contracts. Dete
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushkar1604&theme=radical&utcOffset=5.5" />
 </p>
 
----
-
-## 🚀 Engineering Highlights
-
-<div align="center">
-
-| Focus Area | Highlights |
-|------------|------------|
-| 🔐 Cybersecurity | CEH Certified • Security Auditing • Threat Analysis |
-| 🤖 Artificial Intelligence | Fraud Detection • Risk Scoring • ML Systems |
-| ⚡ Full Stack Engineering | Next.js • TypeScript • Node.js • FastAPI |
-| ⛓️ Blockchain | Solidity • Ethereum • Smart Contracts |
-| 🏆 Achievements | Hackathon Winner • IBM Certified |
-| 🌐 Open Source | Building scalable and secure applications |
-
-</div>
-
----
-
-## 📈 Developer Metrics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushkar1604&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushkar1604&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar1604&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar1604&theme=radical" width="95%" />
 </p>
 
 ---
-
-## 🎯 Core Strengths
-
-<div align="center">
-
-```text
-🔐 Cybersecurity & Ethical Hacking
-🤖 AI-Powered Security Systems
-⚡ Full Stack Product Development
-☁️ Cloud & DevOps
-⛓️ Blockchain Engineering
-🏗️ System Design
 
 ## 📈 Contribution Graph
 
@@ -334,42 +300,18 @@ Developed an automated security analysis tool for Ethereum smart contracts. Dete
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pushkar1604/Pushkar1604/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</p>
-
----
-
 ## 🎯 What I'm Working On
 
-```yaml
-# pushkar.config.yml
+<p align="center">
 
-currently_learning:
-  - Advanced Smart Contract Security & Formal Verification
-  - Zero-Knowledge Proofs (ZK-SNARKs & ZK-Rollups)
-  - System Design & Distributed Systems (MIT 6.824)
-  - Rust for Systems Programming
+| 📚 Learning | 🔨 Building | 🔭 Exploring |
+|:-----------:|:-----------:|:------------:|
+| Smart Contract Formal Verification | DeFi lending protocol | ZK-Proofs (ZK-SNARKs) |
+| Distributed Systems (MIT 6.824) | CTF writeup platform | Cross-chain protocols |
+| Rust for Systems Programming | Smart contract audit toolkit | AI + Solidity security |
+| Zero-Knowledge Proofs | Open source Web3 tools | Bug bounty programs |
 
-building:
-  - DeFi lending protocol with automated risk management
-  - CTF challenge tracker & personal writeup platform
-  - Open-source smart contract automated audit toolkit
-
-exploring:
-  - Cross-chain interoperability protocols (LayerZero, Axelar)
-  - AI-powered vulnerability detection for Solidity
-  - WebAssembly for blockchain applications
-  - Bug bounty programs & responsible disclosure
-
-open_to:
-  - Internships: Blockchain · Full Stack · Security Engineering
-  - Open-source collaboration on Web3 / security tooling
-  - Smart contract security audits for early-stage projects
-  - Hackathon teams & technical collaborations
-```
+</p>
 
 ---
 
@@ -377,7 +319,7 @@ open_to:
 
 <p align="center">
   <a href="mailto:pushkarsingh2022@vitbhopal.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pushkar-singh23/">
@@ -400,5 +342,5 @@ open_to:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=footer&text=Security%20is%20not%20a%20product%2C%20but%20a%20process.%20%E2%80%94%20Bruce%20Schneier&fontSize=15&fontColor=ffffff&fontAlign=50&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=footer&text=Security%20is%20not%20a%20product%2C%20but%20a%20process.%20%E2%80%94%20Bruce%20Schneier&fontSize=15&fontColor=ffffff&fontAlign=50" width="100%" />
 </p>
