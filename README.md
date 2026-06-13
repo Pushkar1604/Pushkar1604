@@ -24,7 +24,7 @@
   </a>
   &nbsp;
   <a href="mailto:pushkarsingh2022@vitbhopal.ac.in">
-    <img src="https://img.shields.io/badge/Email-pushkarsingh2022%40vitbhopal.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pushkarishu2004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://twitter.com/pushkar_singh23">
