@@ -284,13 +284,47 @@ Developed an automated security analysis tool for Ethereum smart contracts. Dete
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Engineering Highlights
+
+<div align="center">
+
+| Focus Area | Highlights |
+|------------|------------|
+| 🔐 Cybersecurity | CEH Certified • Security Auditing • Threat Analysis |
+| 🤖 Artificial Intelligence | Fraud Detection • Risk Scoring • ML Systems |
+| ⚡ Full Stack Engineering | Next.js • TypeScript • Node.js • FastAPI |
+| ⛓️ Blockchain | Solidity • Ethereum • Smart Contracts |
+| 🏆 Achievements | Hackathon Winner • IBM Certified |
+| 🌐 Open Source | Building scalable and secure applications |
+
+</div>
+
+---
+
+## 📈 Developer Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pushkar1604&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushkar1604&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushkar1604&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushkar1604&theme=radical" />
 </p>
 
 ---
+
+## 🎯 Core Strengths
+
+<div align="center">
+
+```text
+🔐 Cybersecurity & Ethical Hacking
+🤖 AI-Powered Security Systems
+⚡ Full Stack Product Development
+☁️ Cloud & DevOps
+⛓️ Blockchain Engineering
+🏗️ System Design
 
 ## 📈 Contribution Graph
 
